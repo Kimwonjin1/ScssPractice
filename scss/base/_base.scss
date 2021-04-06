@@ -1,0 +1,13 @@
+@import "../variables/variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: $medium-heading;
+  font-weight: normal;
+  font-family: $Poppins, $san-serif;
+}
