@@ -1,2 +1,2 @@
 # ScssPractice
-사스 기본 구조
+Scss 기본 구조
